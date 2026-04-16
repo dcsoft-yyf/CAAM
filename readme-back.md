@@ -1,4 +1,4 @@
-# Carbon-based AI Analysis Method: Five-Dimensional Dynamics and Fractal Isomorphism of Involution Lock-in Mechanisms
+﻿# Carbon-based AI Analysis Method: Five-Dimensional Dynamics and Fractal Isomorphism of Involution Lock-in Mechanisms
 
 **Author: Yuan Yongfu, April 7, 2026**
 
@@ -15,8 +15,6 @@ Articles :
 - The Mathematical Principles of Gaming Addiction | 游戏成瘾的数学原理[https://github.com/dcsoft-yyf/CAAM/blob/main/The_Mathematical_Principles_of_Gaming_Addiction.md](https://github.com/dcsoft-yyf/CAAM/blob/main/The_Mathematical_Principles_of_Gaming_Addiction.md)
 - Humanity's Last Job: The AI Unlocker|人类最后一份工作：AI解锁员[https://github.com/dcsoft-yyf/CAAM/blob/main/Humanitys_Last_Job_The_AI_Unlocker.md](https://github.com/dcsoft-yyf/CAAM/blob/main/Humanitys_Last_Job_The_AI_Unlocker.md)
 - [https://github.com/dcsoft-yyf/CAAM/blob/main/CAAM_Human_Rights_Freedom.md](https://github.com/dcsoft-yyf/CAAM/blob/main/CAAM_Human_Rights_Freedom.md)
-
-- Grok's prove | Grok 的数学证明过程 [https://github.com/dcsoft-yyf/CAAM/blob/main/GrokProve.md](https://github.com/dcsoft-yyf/CAAM/blob/main/GrokProve.md)
 
 ## Abstract
 
