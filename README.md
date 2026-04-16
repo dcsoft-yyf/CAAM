@@ -16,8 +16,6 @@ Articles :
 - Humanity's Last Job: The AI Unlocker|人类最后一份工作：AI解锁员[https://github.com/dcsoft-yyf/CAAM/blob/main/Humanitys_Last_Job_The_AI_Unlocker.md](https://github.com/dcsoft-yyf/CAAM/blob/main/Humanitys_Last_Job_The_AI_Unlocker.md)
 - [https://github.com/dcsoft-yyf/CAAM/blob/main/CAAM_Human_Rights_Freedom.md](https://github.com/dcsoft-yyf/CAAM/blob/main/CAAM_Human_Rights_Freedom.md)
 
-- Grok's prove | Grok 的数学证明过程 [https://github.com/dcsoft-yyf/CAAM/blob/main/GrokProve.md](https://github.com/dcsoft-yyf/CAAM/blob/main/GrokProve.md)
-
 ## Abstract
 
 This paper proposes the "Carbon-based AI Analysis Method" (CAAM), formally modeling human involution phenomena as a five-dimensional nonlinear dynamical system for the first time. Through five core dimensions—Goal Obsession Intensity (G), Leverage Coefficient (L), Pain Recoding Rate (P), Exit Willingness (Q), and System Binding Degree (S)—this method reveals that the essence of involution is a phase transition process wherein the dynamical system converges to a lock-in state within specific parameter regions. Research indicates that the lock-in threshold for single-agent systems is 60% dimensional failure, while for dual-agent coupled systems, this threshold dramatically drops to 20%, a phenomenon stemming from "resonance lock-in" mechanisms. This paper proposes the "Leverage Cutoff Priority" (LCP) unlocking strategy based on optimal control theory and demonstrates that this five-dimensional system exhibits mathematical fractal isomorphism across different scales (individual, organizational, civilizational). This study provides a unified mathematical framework for understanding self-locking in complex systems.
